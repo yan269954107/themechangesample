@@ -1,1 +1,1 @@
-include ':settheme', ':base'
+include ':settheme', ':base', ':compattheme'
